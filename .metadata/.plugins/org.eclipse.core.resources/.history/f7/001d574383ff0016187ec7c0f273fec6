@@ -1,0 +1,12 @@
+package com.resturant;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SolutionMaxApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SolutionMaxApplication.class, args);
+	}
+}
